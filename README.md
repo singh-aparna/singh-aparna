@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @singh-aparna  
 
 - 👀 I’m interested in learning new skills and technology.  
-- 🌱 I’m currently learning Web Development.  
-- 💞️ I’m looking to collaborate on web-based projects.  
+- 🌱 I’m currently learning Web Development.   
 - 🤝 I’m looking to collaborate on web-based projects.  
 - 🌐 Let’s build innovative and impactful web applications together.   
 - 📫 How to reach me: **singh123aparna@gmail.com**  
